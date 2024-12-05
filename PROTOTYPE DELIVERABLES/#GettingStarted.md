@@ -30,16 +30,12 @@ The button uses an internal pull-up resistor (INPUT_PULLUP mode), which is perfe
 
 
 # Instructions
-Load a sample on your granulator (the blue box)
-Click on the drum preset you may want
-Check levels to avoid possible clipping while testing
-Turn on the output/ezdac by clicking the button
+Load a sample on your granulator and play around with the percussion elements and delay/reverb for some ambient music. 
 
-Your granulator will start to play the sample loaded
-at this point you may play with the reverb length and amount via the ulytsonic sensor or you might be able to play with the wet settings via the flex sensor. 
-You can play a beat using flex sensors to get the kick and snare.
- The snare can be shaped to play accordingly inside of max. 
- The flex has been set so that if you are maximum bend you will get reverb on your snare. 
+Find more details in the UserManual.md!
+
+
+
  
 
  
